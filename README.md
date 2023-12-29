@@ -26,7 +26,7 @@
     ```bash
     uvicorn main:app --reload
     ```
-5. Access API Documentation on 'http://localhost:8000/docs'
+5. Access API Documentation on `http://localhost:8000/docs`
 
 ## Setting Up and Starting the Frontend
 
