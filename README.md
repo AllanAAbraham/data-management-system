@@ -35,7 +35,7 @@
 2. Navigate to the frontend directory:
 
     ```bash
-    cd .\data-management-System\data-management-frontend\data-frontend-app
+    cd .\data-management-System\data-management-frontend
     ```
 
 3. Install the required packages by running:
