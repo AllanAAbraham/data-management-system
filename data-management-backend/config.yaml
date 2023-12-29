@@ -1,0 +1,2 @@
+# config.yaml
+database_url: "postgresql://[user]:[password]@localhost/bio_samples_db"

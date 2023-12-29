@@ -1,0 +1,5 @@
+host: "localhost"
+user: ""
+password: ""
+database_name: "bio_samples_db"
+database_url: "[user]://[password]:postgres@localhost/bio_samples_db"

@@ -1,0 +1,60 @@
+button {
+    display: block;
+    margin: auto;
+  }
+
+table {
+    margin: auto;
+  }
+
+.hoverable:hover {
+  background-color: #f5f5f5; /* Change this to the color you want */
+  cursor: pointer;
+}  
+
+.search-samples-div {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.sample-table {
+  border-collapse: collapse;
+}
+  
+.sample-table th, .sample-table td {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.search-table {
+  border-collapse: collapse;
+}
+  
+.search-table th, .search-table td {
+ border: 1px solid black;
+ padding: 10px;
+}
+
+.delete-modal {
+ position: fixed;
+ top: 0;
+ left: 0;
+ width: 100%;
+ height: 100%;
+ background-color: rgba(0, 0, 0, 0.5); /* This is the overlay */
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+  
+.delete-modal-content {
+ width: 400px;
+ height: 250px;
+ margin: auto;
+ background-color: white; /* White background */
+ border: 1px solid black;
+ text-align: center;
+}
